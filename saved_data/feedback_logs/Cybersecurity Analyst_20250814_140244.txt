@@ -1,0 +1,4 @@
+Role: Cybersecurity Analyst
+Match Score: 14%
+Matched: incident response
+Missing: penetration testing, network security, vulnerability assessment, firewalls, siem, encryption

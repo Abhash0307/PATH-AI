@@ -1,0 +1,4 @@
+Role: Data Scientist
+Match Score: 80%
+Matched: python, machine learning, pandas, tensorflow
+Missing: statistics

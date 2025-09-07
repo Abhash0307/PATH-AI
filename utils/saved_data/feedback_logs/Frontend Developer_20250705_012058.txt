@@ -1,0 +1,4 @@
+Role: Frontend Developer
+Match Score: 50%
+Matched: html, css, javascript, react
+Missing: vue, angular, responsive design, webpack
